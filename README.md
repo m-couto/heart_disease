@@ -4,7 +4,10 @@ This machine-learning project consisted on predicting heart disease from patient
 
 Throughout we took the following steps:
 - Loading and exploring the data;
-- Modelling the data with several classifiers;
+- Modelling the data with several classifiers:
+  - logistic regression;
+  - k-neighbours classifier;
+  - random forest classifier.
 - Tuning hyperparameters;
 - Evaluating the model;
 - Saving the model.
