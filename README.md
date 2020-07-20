@@ -1,6 +1,6 @@
 # Heart disease prediction
 
-This project consisted on predicting heart disease from patients' medical attributes, such as type of chest pain, cholesterol levels and blood pressure.
+This machine-learning project consisted on predicting heart disease from patients' medical attributes, such as type of chest pain, cholesterol levels and blood pressure.
 
 Throughout we took the following steps:
 - Loading and exploring the data;
